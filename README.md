@@ -1,3 +1,8 @@
+#Background:
+	The Jet Propulsion Laboratory (JPL) has long gathered information about our solar system, and in recent years they have released that information to the public through various online portals collectively called the Solar System Treks. One of those portals is solely dedicated to information about the moon called Moon Trek. While Moon Trek is great for learning about the moon and its various features, it just doesn’t compare to going outside and setting up a telescope to look upon its glory with the naked eye. That’s why JPL has partnered with California State University, Los Angeles to create an application to combine those two aspects.
+ #Design Principles:
+ Through the browser-based application, we can allow users to view an image of the moon similarly to how Google Earth views the image of the earth, provide annotation of various interest points on the moon, provide various overlays of the moon from the Moon Trek database, and allow users to gain map coordinates from image coordinates.  
+
 Run npm start
 localhost:1234/
 
